@@ -1,3 +1,4 @@
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 # OsTicket-HelpDesk-Ticketing-System-Tutorial
 Installation, Configuration and Life Cycle Ticket Examples
 
